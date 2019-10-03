@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>My Delicious Dish</title>
+</head>
+<body>
+  <ul><!-- This is a list of the ingredients needed to prepare the dish-->
+    <li>Onion</li>
+    <li>Egg</li>
+    <li>Tomato</li>
+    <li>Flour</li>
+    <li>Palm Oil</li>
+    <li>Water.</li>
+    <li>Seasoning.</li>
+  </ul>
+  <ol><!-- This is how to prepare the dish -->
+    <li>Pour Water in a bowl, then measure two cups of flour, and mix it with sufficient amount of water.</li>
+    <li>Add the eggs and mix thoroughly.</li>
+    <li>Slice the tomato and Onions very nicely and Put them all together.</li>
+    <li>Add seasoning</li>
+    <li>Fry with a Palm oil and Have a nice Meal.</li>
+  </ol>
+</body>
+</html>
